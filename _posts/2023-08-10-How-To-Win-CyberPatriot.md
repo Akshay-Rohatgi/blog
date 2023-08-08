@@ -20,15 +20,15 @@ I’m a three-time CyberPatriot Open Division National Champion and a CyberPatri
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="width: 50%; text-align: center;">
-    <img src="../../assets/img/Untitled_drawing_(1).png" alt="CyberPatriot Champions" style="width: 100%;">
+    <img src="https://cdn.discordapp.com/attachments/590018690355953668/1138293817510989854/Untitled_drawing_1.png" alt="CyberPatriot Champions" style="width: 100%;">
     <p style="font-style: italic; margin-top: 5px;">CyberPatriot XII, XIV, and XV Open Division National Champions</p>
   </div>
   <div style="width: 50%;">
     <div style="width: 100%; margin-top: 10px;">
-      <img src="../../assets/img/IMG_0543.jpg" alt="Image 1" style="width: 100%;">
+      <img src="https://cdn.discordapp.com/attachments/835284259882795078/1133920058998010026/IMG_0543.jpg" alt="Image 1" style="width: 100%;">
     </div>
     <div style="width: 100%; margin-top: 10px;">
-      <img src="../../assets/img/unknown.jpg" alt="Image 2" style="width: 100%;">
+      <img src="https://cdn.discordapp.com/attachments/634939575546019850/960432571286704168/unknown.png" alt="Image 2" style="width: 100%;">
     </div>
   </div>
 </div>
@@ -212,7 +212,7 @@ I have personally witnessed heart-wrenching moments when teams of five, comprise
 
 The circumstances surrounding GJD^3 serve as a reminder of the value of team composition and the dangers of placing an excessive amount of reliance on individual abilities. When juggling several important obligations, even the most outstanding contender might feel overburdened.
 
-![CyberPatriot XIV and XV Open Division National Finalists](../../assets/img/Untitled.png)
+![CyberPatriot XIV and XV Open Division National Finalists](https://media.discordapp.net/attachments/590018690355953668/1138293963648938115/Untitled.png)
 _CyberPatriot XIV and XV Open Division National Finalists_
 
 Thus, I firmly believe all teams should have a full roster of six members whenever possible. While the current rules only allow five members to compete at a time, having six members offers the advantages of greater manpower and a larger permutation of skills and expertise available. It is reasonable to claim that a team of six can simply research more than a team of five, maximizing preparation during the short turnarounds between competition rounds. Additionally, adding an additional team member enables competitors to specialize more. Each participant can concentrate on developing their abilities in particular competitive categories. For example, a devoted Cisco competitor can focus entirely on honing their talents in Cisco-related activities without worrying about other challenge elements. This specialization not only increases team performance as a whole but also increases individual proficiency. The substitution rule allows a different skillset to be introduced sometime during the competition round to address the specificities of the round. 
@@ -242,7 +242,7 @@ The other aspect of good team composition is an effective distribution of specia
 
 This is a more generalized piece of advice as team cohesion is integral in any team-based competition. It would seem obvious that establishing strong teamwork skills and good communication is integral in any team-based competition. However, its significance cannot be overstated, as it forms a solid foundation for success. I do understand that this is not completely possible for all teams as, unfortunately, absent or uninterested teammates are quite common. There are also examples of teams with a somewhat disjointed and individualistic approach to competing that have been incredibly successful, such as Team Half Dome. However, I firmly believe that strong teamwork and a cohesive team are invaluable. To achieve this, there are a few ideals worth striving for.
 
-![CyberPatriot XIV and XV Open Division National Runners-up](../../assets/img/Untitled%201.png)
+![CyberPatriot XIV and XV Open Division National Runners-up](https://media.discordapp.net/attachments/590018690355953668/1138293963334361128/Untitled_1.png)
 _CyberPatriot XIV and XV Open Division National Runners-up_
 
 **Regular meeting times**
