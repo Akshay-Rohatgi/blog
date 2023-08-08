@@ -6,6 +6,7 @@ description: An organized collection of critiques and observations regarding the
 tags: CyberPatriot, Advice
 categories: posts
 ---
+An organized collection of critiques and observations regarding the AFA’s Youth Cyber Defense Competition coupled with thoroughly tested strategies to succeed.
 
 ---
 
@@ -17,28 +18,36 @@ Hi, my name is Akshay, known online as “hypernova.” To preface this post, I 
 
 I’m a three-time CyberPatriot Open Division National Champion and a CyberPatriot All-American Award recipient (given to competitors who qualify for nationals all four years of high school). Throughout my CyberPatriot career, I served as one of the Linux experts on my team and was the team captain of CyberAegis Tempest during my last season, CyberPatriot 15. 
 
-![CyberPatriot XII, XIV, and XV Open Division National Champions](How%20To%20Win%20CyberPatriot%203eda17e2dcf4406497a4fb685934f13b/Untitled_drawing_(1).png)
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="width: 50%; text-align: center;">
+    <img src="../../assets/img/Untitled_drawing_(1).png" alt="CyberPatriot Champions" style="width: 100%;">
+    <p style="font-style: italic; margin-top: 5px;">CyberPatriot XII, XIV, and XV Open Division National Champions</p>
+  </div>
+  <div style="width: 50%;">
+    <div style="width: 100%; margin-top: 10px;">
+      <img src="../../assets/img/IMG_0543.jpg" alt="Image 1" style="width: 100%;">
+    </div>
+    <div style="width: 100%; margin-top: 10px;">
+      <img src="../../assets/img/unknown.jpg" alt="Image 2" style="width: 100%;">
+    </div>
+  </div>
+</div>
 
-CyberPatriot XII, XIV, and XV Open Division National Champions
 
-![IMG_0543.jpg](How%20To%20Win%20CyberPatriot%203eda17e2dcf4406497a4fb685934f13b/IMG_0543.jpg)
+<!-- 
+![CyberPatriot XII, XIV, and XV Open Division National Champions](../../assets/img/Untitled_drawing_(1).png) {.w-50 .left}
+_CyberPatriot XII, XIV, and XV Open Division National Champions_
 
-![unknown.jpg](How%20To%20Win%20CyberPatriot%203eda17e2dcf4406497a4fb685934f13b/unknown.jpg)
+![IMG_0543.jpg](../../assets/img/IMG_0543.jpg){.w-50 .right}
+
+![unknown.jpg](../../assets/img/unknown.jpg){.w-50 .right} -->
 
 As a competitor, I’ve witnessed many teams, including my own, devise various competition strategies that have failed to effectively and consistently produce results at a high level. In my last 2 years of competing my Linux partner [Safin](https://www.safin.dev/) and I approached the Linux portion of the competition with a method that enabled us to score the highest on the Linux images every single round for eight online qualification rounds straight, with our score margin increasing as the rounds became more difficult (evidenced below). 
 
 | Competition Round | Our Linux Scores | Next Highest Linux Scores | Average Linux Scores | Average Windows Scores | Our Overall CCS Score | Average Overall CCS Score |
 | --- | --- | --- | --- | --- | --- | --- |
-| CP-XIV Semifinals | Debian: 100 
-Ubuntu: 98 | Debian: 88 (-12)
-Ubuntu: 81 (-17) | Debian: 29.07
-Ubuntu: 38.63 | 10: 41.02
-2019: 31.94 | 389 | 140 |
-| CP-XV Semifinals | Fedora: 62
-Ubuntu: 76 | Fedora: 35 (-27)
-Ubuntu: 53 (-23) | Fedora: 2.83
-Ubuntu: 12.56 | 10: 27.56
-2019: 21.9 | 295 | 62.8 |
+| CP-XIV Semifinals | Debian: 100, Ubuntu: 98 | Debian: 88 (-12) Ubuntu: 81 (-17) | Debian: 29.07 Ubuntu: 38.63 | 10: 41.02 2019: 31.94 | 389 | 140 |
+| CP-XV Semifinals | Fedora: 62 Ubuntu: 76 | Fedora: 35 (-27) Ubuntu: 53 (-23) | Fedora: 2.83 Ubuntu: 12.56 | 10: 27.56 2019: 21.9 | 295 | 62.8 |
 
 > Data for the statistics above only include platinum tier teams, sourced from CyberScores datasources
 > 
@@ -59,14 +68,11 @@ Currently, CyberPatriot formally defines the “images portion” of the competi
 
 ## Misconception 2: “Gotta Catch ‘em all!”
 
-Misconception two is the idea that there is one magical resource out there with all the vulnerabilities. This primarily stems from the previously mentioned, inaccurate idea that the competition is entirely centered around obscure or esoteric system settings.
-
-Due to the incorrect definition, students often fall into a dangerous habit of treating CyberPatriot like Pokémon. 
+Misconception two primarily stems from the previously mentioned, inaccurate idea that the competition is entirely centered around obscure or esoteric system settings. Due to the incorrect definition, students often fall into a dangerous habit of treating CyberPatriot like Pokémon. 
 
 Pokémon at a very basic level centers around the idea that Pokémon trainers collect as many Pokémon as possible (the show’s main slogan is literally “Gotta Catch ‘em all!”) and lay them out in battle hoping to win.
 
 > I understand this is a very simplified description of the franchise but it’s just to serve as an easy analogy.
-> 
 
 I believe that many competitors fall into the trap of trying to “catch” all the vulnerabilities they can during competition. They spend hours upon hours the weeks before a qualification round perusing through every system hardening guide they can get their hands on and adding every fix they find to their checklists or scripts. They then blindly throw these fixes at every image they see hoping that they get as many vulnerabilities as they can. They then write down these vulnerabilities and add them to their big “CyberPatriot Vulnerability Bank.” While this approach to hardening is not completely wrong and even effective when used properly, it should not be the main strategy teams use when approaching a competition image. 
 
@@ -206,9 +212,8 @@ I have personally witnessed heart-wrenching moments when teams of five, comprise
 
 The circumstances surrounding GJD^3 serve as a reminder of the value of team composition and the dangers of placing an excessive amount of reliance on individual abilities. When juggling several important obligations, even the most outstanding contender might feel overburdened.
 
-![CyberPatriot XIV and XV Open Division National Finalists](How%20To%20Win%20CyberPatriot%203eda17e2dcf4406497a4fb685934f13b/Untitled.png)
-
-CyberPatriot XIV and XV Open Division National Finalists
+![CyberPatriot XIV and XV Open Division National Finalists](../../assets/img/Untitled.png)
+_CyberPatriot XIV and XV Open Division National Finalists_
 
 Thus, I firmly believe all teams should have a full roster of six members whenever possible. While the current rules only allow five members to compete at a time, having six members offers the advantages of greater manpower and a larger permutation of skills and expertise available. It is reasonable to claim that a team of six can simply research more than a team of five, maximizing preparation during the short turnarounds between competition rounds. Additionally, adding an additional team member enables competitors to specialize more. Each participant can concentrate on developing their abilities in particular competitive categories. For example, a devoted Cisco competitor can focus entirely on honing their talents in Cisco-related activities without worrying about other challenge elements. This specialization not only increases team performance as a whole but also increases individual proficiency. The substitution rule allows a different skillset to be introduced sometime during the competition round to address the specificities of the round. 
 
@@ -237,9 +242,8 @@ The other aspect of good team composition is an effective distribution of specia
 
 This is a more generalized piece of advice as team cohesion is integral in any team-based competition. It would seem obvious that establishing strong teamwork skills and good communication is integral in any team-based competition. However, its significance cannot be overstated, as it forms a solid foundation for success. I do understand that this is not completely possible for all teams as, unfortunately, absent or uninterested teammates are quite common. There are also examples of teams with a somewhat disjointed and individualistic approach to competing that have been incredibly successful, such as Team Half Dome. However, I firmly believe that strong teamwork and a cohesive team are invaluable. To achieve this, there are a few ideals worth striving for.
 
-![CyberPatriot XIV and XV Open Division National Runners-up](How%20To%20Win%20CyberPatriot%203eda17e2dcf4406497a4fb685934f13b/Untitled%201.png)
-
-CyberPatriot XIV and XV Open Division National Runners-up
+![CyberPatriot XIV and XV Open Division National Runners-up](../../assets/img/Untitled%201.png)
+_CyberPatriot XIV and XV Open Division National Runners-up_
 
 **Regular meeting times**
 
@@ -314,7 +318,7 @@ I’ve dumped a lot of information and suggestions throughout this post, and I u
     1. As a team, practice with publicly available practice images and test your checklists and scripts as if you were actually competing. Here are a few images I suggest, they are “medium” difficulty. 
         1. [“Money Heist” Practice Image](https://drive.google.com/file/d/1ZLKf-DAij1VN6aFz6T5Z3fpGEpfxJWzo/view?usp=sharing) (Ubuntu) [Author: *KaliPatriot*]
         2. [“rooReaper Strikes Back” Server](https://eth007.me/blog/cypat/) (Ubuntu 22.04) [Author: e*th007*]
-        3. [Windows Practice Image](https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing) (Windows 10) [Author: ***********KaliPatriot***********]
+        3. [Windows Practice Image](https://drive.google.com/file/d/1FzzYG7haDwrz4D69MtKGDifDpqNWcg5q/view?usp=sharing) (Windows 10) [Author: *KaliPatriot*]
         4. [“The Cincinnati Zoo” Practice Image](https://drive.google.com/file/d/1ai3vff_pS_rABc8hsnE_0uv08MOZiB1W/view?usp=sharing) (Windows 10) [Author: d0nkeyman]
         5. [Santa’s Workshop Laptop](https://magistrate.shiversoft.net/) (Windows Server) [Author: *Magistrate*]
         
