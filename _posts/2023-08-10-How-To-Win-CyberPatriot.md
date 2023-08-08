@@ -267,7 +267,7 @@ Second of all, almost none of the strategies I mentioned above are effective wit
 
 ## Zero to Hero
 
-I’ve dumped a lot of information and suggestions throughout this post, and I understand it may be overwhelming and difficult to figure out how to use this advice and begin to improve. Below, I’ll try my best to consolidate my advice into a small list of somewhat broad, actionable steps to take a new CyberPatriot team all the way to the National Finals. 
+I’ve dumped a lot of information and suggestions throughout this post, and I understand it may be overwhelming and difficult to figure out where to start. Below, I’ll try my best to consolidate my advice into a small list of somewhat broad, actionable steps to take a new CyberPatriot team all the way to the National Finals. 
 
 > I have framed the following advice through the lens of an Open Division team; however, it can easily be applied to the All Service division.
 > 
