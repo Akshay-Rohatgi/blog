@@ -280,7 +280,7 @@ I’ve dumped a lot of information and suggestions throughout this post, and I u
 
 1. Lay the Groundwork:
     1. Start as early as possible; the best teams work through the summer to prepare for the upcoming season. I understand that this might not work for everyone, as the school year typically doesn't start until mid-August at the earliest. However, to compete against the best of the best, who have been competing for years, it is best to start as early as possible to have a chance.
-    2. Do your best to assemble a well-balanced team, ideally attempting to follow the example arrangement detailed in [Team Composition](https://www.notion.so/How-To-Win-CyberPatriot-3eda17e2dcf4406497a4fb685934f13b?pvs=21).
+    2. Do your best to assemble a well-balanced team, ideally attempting to follow the example arrangement detailed in "Team Composition".
     3. Forge a cohesive team by setting regular meeting times, utilizing task management tools, and ensuring infrastructure for the future placement of team resources and tools.
     4. Do your best to get registered early for the competition and establish robust and easily accessible lines of communication with your coach, as you will need them ALL the time. 
 2. Experience the Challenge:
@@ -314,7 +314,7 @@ I’ve dumped a lot of information and suggestions throughout this post, and I u
     1. There are several resources out there to quickly gain some OS security knowledge and strategies. However, they should be used effectively. For example, there are several robust OS hardening scripts on GitHub, but when borrowing content from them, first attempt to understand it and then test it before adding it to your own checklists and scripts. Below are a few links to some general resources to get you started.
         1. Operating System Security Standards (STIG, CIS)
             1. STIGS: [https://www.stigviewer.com/stigs](https://www.stigviewer.com/stigs), look through these for relevant ones such as the [Ubuntu 20.04 standard](https://www.stigviewer.com/stig/canonical_ubuntu_20.04_lts/) and [Windows Server 2019 standard](https://www.stigviewer.com/stig/microsoft_windows_server_2019/).
-            2. Download up-to-date CIS benchmarks [here](https://www.notion.so/Active-Information-Gathering-56edc0361b3e45ad8a3e766a90e11abd?pvs=21), you can also find some older ones on Github repositories such as this [one](https://github.com/cismirror/old-benchmarks-archive). 
+            2. Download up-to-date CIS benchmarks [here](https://www.cisecurity.org/cis-benchmarks), you can also find some older ones on Github repositories such as this [one](https://github.com/cismirror/old-benchmarks-archive). 
         2. GitHub OS Hardening/Vulnerability Scanning Scripts
             1. [Konstruktoid: Hardening Ubuntu, Systemd edition.](https://github.com/konstruktoid/hardening)
             2. [HardeningKitty and Windows Hardening Configurations](https://github.com/0x6d69636b/windows_hardening)
@@ -376,7 +376,7 @@ Unfortunately, CyberPatriot’s reputation is not always positive, as it is perc
 
 **Eliminate unnecessary ambiguity around the primary challenge.**
 
-As previously mentioned in [Misconception 1: What is CyberPatriot?](https://www.notion.so/How-To-Win-CyberPatriot-3eda17e2dcf4406497a4fb685934f13b?pvs=21) I believe the “Images Portion” of the competition, formally known as the Network Security Master Challenge (NSMC) should be renamed to the Network Incident Response and Security Challenge (NIRSC) to more accurately describe the nature of the challenge. Moreover, the competition organizers should proactively advocate for the adoption of this revised name to ensure that the primary challenge is consistently and accurately referred to as the NIRSC. This cohesive, unambiguous terminology will facilitate a better understanding of the challenge’s objectives and contribute to a more coherent and precise communication across all competitors, coaches, and even potential sponsors.
+As previously mentioned in "Misconception 1: What is CyberPatriot?" I believe the “Images Portion” of the competition, formally known as the Network Security Master Challenge (NSMC) should be renamed to the Network Incident Response and Security Challenge (NIRSC) to more accurately describe the nature of the challenge. Moreover, the competition organizers should proactively advocate for the adoption of this revised name to ensure that the primary challenge is consistently and accurately referred to as the NIRSC. This cohesive, unambiguous terminology will facilitate a better understanding of the challenge’s objectives and contribute to a more coherent and precise communication across all competitors, coaches, and even potential sponsors.
 
 **Encourage and reward community initiatives.** 
 
