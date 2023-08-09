@@ -12,7 +12,7 @@ An organized collection of critiques and observations regarding the AFA’s Yout
 
 ## Preface
 
-Hi, my name is Akshay, known online as “hypernova.” To preface this post, I want to acknowledge my privilege in regard to the schools I attended, the supportive communities I was part of, and the comfortable financial resources I had at my disposal. I never had to worry about an absent coach or subpar computing equipment. I understand the inherent advantage I had, and I hope that the following content can help level the playing field for less fortunate competitors and their teams.
+Hi, my name is Akshay, known online as “hypernova.” I want to acknowledge my privilege regarding the schools I attended, the supportive communities I was part of, and the comfortable financial resources I had at my disposal. I never had to worry about an absent coach or subpar computing equipment. I understand the inherent advantage I had, and I hope that the following content can help level the playing field for less fortunate competitors and their teams.
 
 ## Introduction
 
