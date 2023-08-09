@@ -21,7 +21,7 @@ I’m a three-time CyberPatriot Open Division National Champion and a CyberPatri
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="width: 50%; text-align: center;">
     <img src="https://cdn.discordapp.com/attachments/590018690355953668/1138293817510989854/Untitled_drawing_1.png" alt="CyberPatriot Champions" style="width: 100%;">
-    <p style="font-style: italic; margin-top: 5px;">CyberPatriot XII, XIV, and XV Open Division National Champions</p>
+    <p style="font-style: italic; margin-top: 5px;">CyberPatriot XIII, XIV, and XV Open Division National Champions</p>
   </div>
   <div style="width: 50%;">
     <div style="width: 100%; margin-top: 10px;">
