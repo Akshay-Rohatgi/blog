@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  How To Win CyberPatriot
-date: 2023-08-6 16:40:16
+date: 2023-08-8 18:35:00
 description: An organized collection of critiques and observations regarding the AFA’s Youth Cyber Defense Competition coupled with thoroughly tested strategies to succeed.
 tags: CyberPatriot, Advice
 categories: posts
