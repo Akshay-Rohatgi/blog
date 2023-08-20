@@ -299,7 +299,7 @@ I’ve dumped a lot of information and suggestions throughout this post, and I u
 4. Develop OS Familiarity and Start Research 
     1. Look back at the [Operating System Familiarity](Operating System Familiarity ) section and begin learning about and figuring out how to secure different components of the operating system you’ll be specializing in. Record your findings and share them with your team along the way. 
         
-        > A helpful resource for Linux is a YouTube series called “[Linux, Visually](https://www.youtube.com/playlist?list=PLcn9NsWbb8s4wQrX0Qi5G4kRifQHxCV9-)” which is currently under development by my former Linux partner, Safin Singh. It does an excellent job of explaining Linux mechanics in a way that is easy to understand.
+        > A helpful resource for Linux is a YouTube series called “[Linux, Visually](https://www.youtube.com/playlist?list=PLcn9NsWbb8s4wQrX0Qi5G4kRifQHxCV9-)” which is currently under development by my former Linux partner, Safin Singh. It does an excellent job of explaining Linux mechanics in a way that is easy to understand. You can also interact with Safin himself  in his [Linux, Visually Discord Server](https://discord.gg/5SctD9e6Kb).
         > 
         
         > There are also many [TryHackMe](https://tryhackme.com/) rooms that cover fundamentals of many computing and OS concepts. Some useful ones are Windows Fundamentals 1-3 and Linux Fundamentals 1-3. There are also various rooms that cover other topics such as [Active Directory](https://tryhackme.com/room/winadbasics), explore on your own.
