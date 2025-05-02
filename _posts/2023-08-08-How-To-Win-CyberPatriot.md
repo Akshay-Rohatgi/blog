@@ -20,15 +20,15 @@ I’m a three-time CyberPatriot Open Division National Champion and a CyberPatri
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="width: 50%; text-align: center;">
-    <img src="https://cdn.discordapp.com/attachments/590018690355953668/1138293817510989854/Untitled_drawing_1.png" alt="CyberPatriot Champions" style="width: 100%;">
+    <img src="https://i.imgur.com/9L3cv1v.png" alt="CyberPatriot Champions" style="width: 100%;">
     <p style="font-style: italic; margin-top: 5px;">CyberPatriot XIII, XIV, and XV Open Division National Champions</p>
   </div>
   <div style="width: 50%;">
     <div style="width: 100%; margin-top: 10px;">
-      <img src="https://cdn.discordapp.com/attachments/835284259882795078/1133920058998010026/IMG_0543.jpg" alt="Image 1" style="width: 100%;">
+      <img src="https://pbs.twimg.com/profile_banners/960181790861287424/1649057761/1500x500" alt="Image 1" style="width: 100%;">
     </div>
     <div style="width: 100%; margin-top: 10px;">
-      <img src="https://cdn.discordapp.com/attachments/634939575546019850/960432571286704168/unknown.png" alt="Image 2" style="width: 100%;">
+      <img src="https://i.imgur.com/ShxdJZY.png" alt="Image 2" style="width: 100%;">
     </div>
   </div>
 </div>
