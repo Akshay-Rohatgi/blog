@@ -20,7 +20,7 @@ timezone:
 
 title: Blog # the main title
 
-tagline: Akshay | Hypernova # it will display as the sub-title
+tagline: Akshay | hypernova # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -45,7 +45,7 @@ social:
     - https://github.com/Akshay-Rohatgi # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/akshay-rohatgi
 
 google_site_verification: # fill in to your verification string
 
@@ -66,7 +66,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark # [light|dark]
+theme_mode: light # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
