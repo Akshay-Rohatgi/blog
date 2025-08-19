@@ -387,50 +387,6 @@ The corporate specialist and dedicated writer role is fairly self-explanatory. T
 
 When not competing, they should focus on supporting the corporate lead and coordinating with the technical teams to pre-write or prepare for injects commonly seen in competition.
 
-**3. Linux Lead & Threat Hunter**
-
-Linux lead is responsible for all Linux systems during the competition. They must be comfortable with a variety of distributions, from Debian-based systems to BSD, and be the primary teammate deploying automation across machines. They maintain an overview of all Linux machines at all times: what security actions have been taken, what risks or vulnerabilities remain, and which machines may have been compromised.
-
-Outside the competition, they prepare the overall Linux strategy and develop playbooks, reference guides, and automation to execute it effectively.
-
-This role becomes relevant when the team can deploy a functional SIEM solution onto the network. The threat hunter manages the SIEM, monitors for malicious activity, and ensures logs from all machines are properly forwarded and ingested.
-
-Outside the competition, the threat hunter should learn to manage the SIEM and build automation or playbooks for deploying logging across the network. They should work with both the Linux and Windows teams to develop detections for common indicators of malicious activity, such as failed logons or known exploits like DCSync.
-
->  Our Linux subteam was already pretty mature and often had free time during competitions. We used this to our advantage by giving the Linux lead a second role. That said, the role doesn’t have to belong to Linux. It can reasonably go to anyone with a broad enough understanding of the operating systems and network, maybe the Windows lead or a the jack of all trades.
-{: .prompt-info }
-
-**4. Windows Lead**
-
-The Windows lead is responsible for all Windows systems during the competition. Similar to the Linux lead, they should know what security actions have been taken on each system, what risks or vulnerabilities remain, and which machines may have been compromised. This role requires a strong foundation in Active Directory and an understanding of the vulnerabilities commonly associated with it.
-
-Again, just like the Linux lead, they should be primarily responsible for deploying automation across their systems. Between competitions, the Windows lead should be preparing the overall strategy they plan to use for approaching each event. This includes developing playbooks and automation to help them achieve their competition objectives, such as changing all user passwords or disabling SMBv1.
-
-While the captain will help with this, the Windows lead should be highly cognizant of the fact that many services often depend on the Windows Domain Controller, which is a staple of CCDC competitions. Whether it is used for authentication or relies on the domain controller’s built-in DNS server, the responsibility is significant. The Windows lead should ensure, to the best of their ability, that they are accounting for all potential dependencies when securing their server.
-
-**5. “Jack of all Trades” & Mock Competition Co-Organizer** 
-
-This teammate’s role is somewhat self-explanatory. They are a team member capable of fulfilling various roles during the competition — not necessarily to the full extent that the specialists can, but enough to fill gaps and support others when they are overloaded or dealing with particularly difficult tasks. During the competition they’ll often be placed on injects, curveballs such as unrecognizable services or systems, and assigned to support the operations of existing specialists. 
-
-What’s special about their role as a mock competition co-organizer is the level of work they put in outside the competition. Alongside the captain, they plan and help develop the mock competition environments between competitions. This includes hours spent deploying and configuring services, ensuring they are vulnerable, and making sure the network either closely mirrors the round they are trying to emulate or aligns with the intended learning objectives.
-
-**6. Linux & Networking Specialist**
-
-This team member specializes in Linux and networking. They should be comfortable working with a variety of distributions, from Debian-based systems to BSD. In regards to networking, they should have a strong grasp of TCP/IP topics, routing, and how to configure and deploy various firewalls such as PfSense, FTD, PAN, and more. 
-
-Outside of the competition they should be supporting the Linux team and working with the captain in regards to strategy, playbook-building, and automation development. 
-
-**7. Windows Specialist**
-
-This team member specializes in Windows systems. They should understand the Windows ecosystem and be especially familiar with Windows-native services such as Active Directory, IIS, SMB, and others.
-
-Both inside and outside the competition, the Windows specialist should support the Windows lead and captain in whatever is needed related to their area of expertise, whether that involves writing injects, developing automation, or handling any other Windows-specific task assigned to them.
-
-**8. Corporate Specialist & Dedicated Writer**
-
-The corporate specialist and dedicated writer role is fairly self-explanatory. They are responsible for writing and working on business injects throughout the entirety of the competition. With the heavy flow of injects during CCDC events, this role is nearly essential for addressing them effectively.
-
-When not competing, they should focus on supporting the corporate lead and coordinating with the technical teams to pre-write or prepare for injects commonly seen in competition.
 
 #### **Insight Into Assigning or Advertising Roles**
 
