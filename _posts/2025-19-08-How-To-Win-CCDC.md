@@ -255,21 +255,21 @@ Automation is key to winning CCDC. When you are already at a disadvantage, every
 
 **Centralized Execution Tooling**
 
-coordinate (author: [sourque](https://sourque.com/)): https://git.sr.ht/~sourque/coordinate
+coordinate (author: [sourque](https://sourque.com/)): [https://git.sr.ht/~sourque/coordinate](https://git.sr.ht/~sourque/coordinate)
 
-Dovetail (author: [altoid0](https://altoid0.com/)): https://github.com/Altoid0/Dovetail
+Dovetail (author: [altoid0](https://altoid0.com/)): [https://github.com/Altoid0/Dovetail](https://github.com/Altoid0/Dovetail)
 
 **CCDC Team Repositories**
 
-University of California, Irvine: https://github.com/UCI-CCDC/LOCS
+University of California, Irvine: [https://github.com/UCI-CCDC/LOCS](https://github.com/UCI-CCDC/LOCS)
 
-Stanford: https://github.com/applied-cyber/ccdc
+Stanford: [https://github.com/applied-cyber/ccdc](https://github.com/applied-cyber/ccdc)
 
-University of Central Florida: https://github.com/HackUCF/SnoopyOnSecurity
+University of Central Florida: [https://github.com/HackUCF/SnoopyOnSecurity](https://github.com/HackUCF/SnoopyOnSecurity)
 
-Dakota State University: https://github.com/DSU-DefSec/ace
+Dakota State University: [https://github.com/DSU-DefSec/ace](https://github.com/DSU-DefSec/ace)
 
-CalPoly Pomona: https://github.com/cpp-cyber/blue
+CalPoly Pomona: [https://github.com/cpp-cyber/blue](https://github.com/cpp-cyber/blue)
 
 > This past season the finals event heavily restricted how and when we were allowed to deploy automation. It is possible that the regions will follow suit to some extent. However, automation was still very helpful during the finals and should still be a heavy investment for any team.
 {: .prompt-warning }
