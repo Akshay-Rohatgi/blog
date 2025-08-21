@@ -529,7 +529,7 @@ The It’s Over network was the most ambitious environment we created, designed 
 <br/>
 
 <figure style="text-align: center; margin: 0;">
-  <img src="https://akshayrohatgi.com/img/how2winccdc/its_over_scoreboard.png" alt="its over" style="max-width: 600px; width: 100%; height: auto;">
+  <img src="https://akshayrohatgi.com/img/how2winccdc/its_over_scoreboard2.png" alt="its over" style="max-width: 600px; width: 100%; height: auto;">
   <figcaption style="font-style: italic; margin-top: 8px;">
     The sheer number of scored services on the scoreboard for this mock competition
   </figcaption>
