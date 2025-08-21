@@ -141,7 +141,7 @@ Each variable in the formula can be interpreted as follows:
 
 **Exposed Cockpit Instance**: While not as dangerous as the above, an authenticated web interface to system internals can still be dangerous, especially if the default credentials are not changed. It scores moderate across all metrics (impact 3, exploitability 3), but easy to disable (remediation cost 1).
 
-**Authenticated Local File Inclusion**: Scores low on impact (2) because it typically only allows access to limited file content and requires a valid login to exploit. While it could potentially expose sensitive configuration files, it doesn’t necessarily lead directly to full compromise. Exploitability (2) is also low since the attacker must already be authenticated, reducing its immediacy as a threat. The remediation cost (4) is high because fixing LFI often requires either modifying the web application’s source code, which is very time-consuming.
+**Authenticated Local File Inclusion**: Scores low on impact (2) because it typically only allows access to limited file content and requires a valid login to exploit. While it could potentially expose sensitive configuration files, it doesn’t necessarily lead directly to full compromise. Exploitability (2) is also low since the attacker must already be authenticated, reducing its immediacy as a threat. The remediation cost (4) is high because fixing LFI often requires ` modifying the web application’s source code, which is very time-consuming.
 
 > This equation and its parameters are completely arbitrary and not grounded in any mathematical research or science. It is simply to help teams reason about which vulnerabilities to fix first based on exploit complexity and potential impact.
 {: .prompt-warning }
@@ -286,7 +286,7 @@ Team captain is a multi-faceted role, but at its core comes down to having the m
 
 As captain, I felt it was important for me to understand every major aspect of the competition, at least at a high level. I reasoned that it would be difficult for me to help manage my incoming Windows team, which was going to consist of two new students, without understanding it at a base level myself. In the same regard, I did my best to understand technologies that other team members specialized in, such as network firewalls or Kubernetes. Even if I didn’t fully understand how to deploy a multi-component application on Kubernetes, I understood the complexity of the service and the common pitfalls or vulnerabilities our team might run into. Essentially, having a broad perspective and understanding of the competition and what it entails was the core goal.
 
-Personally, I was able to assume this role with background knowledge the following background knowledge. 
+Personally, I was able to assume this role with the following background knowledge. 
 
 - **Linux**: I specialized in Linux for the six years I competed in CyberPatriot, and the previous year in CCDC.
 - **Windows**: Bits and pieces from former teammates who did specialize in Windows, previously had completed the OSCP, and building Windows boxes for mock competitions throughout the year.
